@@ -1,0 +1,4 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+/* This helps to generate the customized css  to do it we give a command in the terminal*/ 
